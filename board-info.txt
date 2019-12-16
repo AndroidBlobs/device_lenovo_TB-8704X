@@ -1,0 +1,2 @@
+require version-baseband=2.3.C1-00705
+require version-modem=2019-06-0602:19:26
